@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/RGB_city</file>
+        <file>images/2927262.jpg</file>
+        <file>images/3156482.jpg</file>
+    </qresource>
+</RCC>
